@@ -1,1 +1,1 @@
-.main{max-width:60%;float:right;padding:30px}.box_one,.box_two{width:70%;padding:40px}img{width:100%}
+.main{width:70%;float:right;background-color:grey}.sidebar{width:30%;height:100%;float:left;background-color:steelblue}.blog_post{width:60%;margin-left:10%;margin-top:10%;margin-bottom:10%;background-color:white}img{max-width:100%}.blog_content{padding:10%}.footer{border:1px solid red;background-color:lightgrey}.menu{width:50%;margin-top:10%;margin-left:40%;margin-bottom:10%;background-color:white}.nav li{list-style:none}.group::after{content:"";display:table;clear:both}
